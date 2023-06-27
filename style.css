@@ -192,7 +192,7 @@ color: rgba(69, 64, 219, 1);
 
 .box1{
     display: flex;
-    width: 400px;
+    width: 310px;
     height: 158px;
     background-color: rgb(255, 255, 255);
     border-radius: 20px;
@@ -301,7 +301,7 @@ h5{
 .boxone{
     display: flex;
     flex-direction: column;
-    width: 400px;
+    width: 305px;
     height: 280px;
     background-color: rgb(255, 255, 255);
     border-radius: 20px;
