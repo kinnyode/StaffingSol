@@ -500,6 +500,11 @@ box-shadow: 2px 2px 2px 2px rgb(193, 193, 193);
         background-color: white;
         box-shadow: 1px 1px 1px rgb(193, 193, 193);
     }
+
+    .smallbox :focus{
+        outline: solid 0px rgb(255, 255, 255);
+    }
+
 .subscribe{
     width:130px;
     padding: 8px;
